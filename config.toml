@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = "Ravi Chinnasamy"
-        subtitle = "Website under construstion!"
+        subtitle = "Website under Construction!"
 
 
     [params.portfolio]
