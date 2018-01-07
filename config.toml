@@ -13,7 +13,7 @@ theme = "hugo-freelancer-theme"
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Ravi Enterprise"
-    description = "Welcome to my site!"
+    description = "Service &amp; Works Contractor"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = "Ravi Chinnasamy"
-        subtitle = "Website under Construction!"
+        subtitle = "Service &amp; Works Contractor"
 
 
     [params.portfolio]
@@ -89,12 +89,12 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "&copy; 2018."
+        copyright = "&copy; 2018. All rights reserved."
 
         [params.footer.location]
             title = "Location"
             # Postal address (add as many lines as necessary)
-            address = ["Chennai"]
+            address = ["Perambur, Chennai"]
 
         [params.footer.social]
             title = "Around the web"
@@ -103,5 +103,5 @@ theme = "hugo-freelancer-theme"
             # CSS class.
 
         [params.footer.credits]
-            title = "About Freelancer"
-            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
+            title = "About Me"
+            text = "Hello, I'm Ravi Chinnasamy, I am currently working as Service &amp; Works Contractor."
