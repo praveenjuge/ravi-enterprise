@@ -13,7 +13,7 @@ theme = "hugo-freelancer-theme"
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Ravi Enterprise"
-    description = "Service &amp; Works Contractor"
+    description = "Service & Works Contractor"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = "Ravi Chinnasamy"
-        subtitle = "Service &amp; Works Contractor"
+        subtitle = "Service & Works Contractor"
 
 
     [params.portfolio]
@@ -57,11 +57,10 @@ theme = "hugo-freelancer-theme"
             buttontext = "Close"
 
 
-    [params.about]
-        title = "About"
-        # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+    # [params.about]
+    #     title = "About"
+    #     left = "Under Construstion!"
+    #     right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
 
 
     [params.contact]
