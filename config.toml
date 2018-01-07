@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://ravienterprise.in/"
+baseurl = "https://ravienterprise.in/"
 languageCode = "en-us"
 title = "Ravi Enterprise"
 theme = "hugo-freelancer-theme"
