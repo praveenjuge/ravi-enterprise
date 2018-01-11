@@ -4,7 +4,6 @@ languageCode = "en-us"
 title = "Ravi Enterprise"
 theme = "hugo-freelancer-theme"
 
-
 [params]
 
     # You can use Markdown syntax for urls [text](//url.to/source) for
